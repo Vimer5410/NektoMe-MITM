@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "11V35GqF2QU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\C#\\NektoMe-MITM\\NektoMe-MITM-text\\NektoMe-MITM-text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.8\\microsoft.extensions.configuration.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.8\\microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.8\\microsoft.extensions.configuration.binder.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.8\\microsoft.extensions.dependencyinjection.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.logging\\9.0.8\\microsoft.extensions.logging.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.8\\microsoft.extensions.logging.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.logging.configuration\\9.0.8\\microsoft.extensions.logging.configuration.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.logging.console\\9.0.8\\microsoft.extensions.logging.console.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.options\\9.0.8\\microsoft.extensions.options.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.8\\microsoft.extensions.options.configurationextensions.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.8\\microsoft.extensions.primitives.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\socketio.core\\3.1.2\\socketio.core.3.1.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\socketio.serializer.core\\3.1.2\\socketio.serializer.core.3.1.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\socketio.serializer.systemtextjson\\3.1.2\\socketio.serializer.systemtextjson.3.1.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\socketioclient\\3.1.2\\socketioclient.3.1.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
