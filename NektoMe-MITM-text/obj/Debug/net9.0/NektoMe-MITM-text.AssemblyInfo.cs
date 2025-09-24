@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NektoMe-MITM-text")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8771b37250599c96616f766217bcd6a795e27b52")]
 [assembly: System.Reflection.AssemblyProductAttribute("NektoMe-MITM-text")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NektoMe-MITM-text")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

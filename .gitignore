@@ -1,0 +1,28 @@
+ Build folders
+bin/
+obj/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+
+# User files
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+appsettings.local.json
+config.json

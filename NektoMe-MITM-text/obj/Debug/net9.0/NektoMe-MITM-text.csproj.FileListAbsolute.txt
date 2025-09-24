@@ -30,3 +30,4 @@ C:\Users\Asus\source\C#\NektoMe-MITM\NektoMe-MITM-text\obj\Debug\net9.0\refint\N
 C:\Users\Asus\source\C#\NektoMe-MITM\NektoMe-MITM-text\obj\Debug\net9.0\NektoMe-MITM-text.pdb
 C:\Users\Asus\source\C#\NektoMe-MITM\NektoMe-MITM-text\obj\Debug\net9.0\NektoMe-MITM-text.genruntimeconfig.cache
 C:\Users\Asus\source\C#\NektoMe-MITM\NektoMe-MITM-text\obj\Debug\net9.0\ref\NektoMe-MITM-text.dll
+C:\Users\Asus\source\C#\NektoMe-MITM\NektoMe-MITM-text\obj\Debug\net9.0\NektoMe-MITM-text.sourcelink.json
